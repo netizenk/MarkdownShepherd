@@ -22,4 +22,4 @@
 - Enhanced UI responsiveness during file operations 
 
 ### Download
-- [Link Text](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases/MarkdownShepherdSetup-25.3.1)
+- [Markdown Shepherd Setup File](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases/MarkdownShepherdSetup-25.3.1)
