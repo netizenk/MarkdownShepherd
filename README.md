@@ -1,13 +1,11 @@
 ### MarkdownShepherd
 
-A WPF application for managing and viewing Markdown files.
+A WPF Windows application for managing and viewing Markdown files.
 
-## Building from Source
+## Installation
 
 ### Prerequisites
 - .NET 9.0
-
-## Installation
 
 ### First-time Installation
 1. Download the latest release from the `Releases` directory
