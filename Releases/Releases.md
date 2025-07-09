@@ -1,5 +1,13 @@
 # Release Notes
 
+## [25.3.3] - 2025-07-09
+
+### Added
+- Ability to create and save new markdown files.
+
+### Download
+- [Markdown Shepherd Setup File](https://raw.githubusercontent.com/netizenk/MarkdownShepherd/refs/heads/main/Releases/MarkdownShepherdSetup-25.3.3.exe)
+
 ## [25.3.2] - 2025-07-08
 
 ### Fixed
