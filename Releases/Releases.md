@@ -1,5 +1,13 @@
 # Release Notes
 
+## [25.3.2] - 2025-07-08
+
+### Fixed
+- Fixed version numbering
+
+### Download
+- [Markdown Shepherd Setup File](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases/MarkdownShepherdSetup-25.3.2)
+
 ## [25.3.1] - 2025-07-04
 
 ### Added
@@ -22,4 +30,4 @@
 - Enhanced UI responsiveness during file operations 
 
 ### Download
-- [Markdown Shepherd Setup File](https://github.com/netizenk/MarkdownShepherd/blob/main/Releases/MarkdownShepherdSetup-25.3.1.exe)
+- [Markdown Shepherd Setup File](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases/MarkdownShepherdSetup-25.3.1)
