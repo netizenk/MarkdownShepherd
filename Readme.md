@@ -1,6 +1,8 @@
 ### MarkdownShepherd
 
-A WPF Windows application for managing and viewing Markdown files.
+A WPF Windows application for managing, viewing, and editing Markdown files.
+
+[Visit MarkdownShepherd on ZennTech](https://www.zenntech.me/Software/MarkdownShepherd)
 
 ## Installation
 
