@@ -31,6 +31,12 @@ The application stores its configuration in `appsettings.json` in the applicatio
 - User settings
 - Theme preferences
 
+## Screenshots
+
+![MarkdownShepherd](https://www.zenntech.me/img/MarkdownShepherd.png)
+
+![MarkdownShepherd](https://www.zenntech.me/img/MarkdownShepherd.Editor.png)
+
 ## License
 ### END-USER LICENSE AGREEMENT (EULA)
 
