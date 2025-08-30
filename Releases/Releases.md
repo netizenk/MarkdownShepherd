@@ -1,5 +1,16 @@
 # Release Notes
 
+## [25.3.4] - 2025-08-29
+
+### Added
+- Display file name without extension in file list.
+- Prompt user to provide file name when creating new file
+- Apply selected theme to editor windows as well
+- Added context menu to file list.
+
+### Download
+- [Markdown Shepherd Setup File](https://raw.githubusercontent.com/netizenk/MarkdownShepherd/refs/heads/main/Releases/MarkdownShepherdSetup-25.3.4.exe)
+
 ## [25.3.3] - 2025-07-09
 
 ### Added
