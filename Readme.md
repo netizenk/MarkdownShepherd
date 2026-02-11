@@ -7,7 +7,7 @@ A WPF Windows application for managing, viewing, and editing Markdown files.
 ## Installation
 
 ### Prerequisites
-- .NET 9.0
+- .NET 10.0
 
 ### First-time Installation
 1. Download the latest release from the `Releases` directory
