@@ -1,5 +1,14 @@
 # Release Notes
 
+## [26.1.1] - 2026-02-11
+
+### Added
+- Target .NET 10.0
+- Updated dependencies to latest versions
+
+### Download
+- [Markdown Shepherd Setup File](https://raw.githubusercontent.com/netizenk/MarkdownShepherd/refs/heads/main/Releases/MarkdownShepherdSetup-25.3.4.exe)
+
 ## [25.3.4] - 2025-08-29
 
 ### Added
