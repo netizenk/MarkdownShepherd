@@ -7,7 +7,7 @@
 - Updated dependencies to latest versions
 
 ### Download
-- [Markdown Shepherd Setup File](https://raw.githubusercontent.com/netizenk/MarkdownShepherd/refs/heads/main/Releases/MarkdownShepherdSetup-25.3.4.exe)
+- [Markdown Shepherd Setup File](https://raw.githubusercontent.com/netizenk/MarkdownShepherd/refs/heads/main/Releases/MarkdownShepherdSetup-26.1.1.exe)
 
 ## [25.3.4] - 2025-08-29
 
