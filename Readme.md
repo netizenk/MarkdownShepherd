@@ -6,7 +6,7 @@ A WPF Windows application for managing, viewing, and editing Markdown files.
 
 ## Installation
 
-Download **MarkdownShepherd-win-Setup.exe** from the [latest GitHub Release](https://github.com/netizenk/MarkdownShepherd/releases/latest). The current release is **26.11.1**. The setup is per-user and self-contained, so a separate .NET install is not required. Windows SmartScreen may warn on the first run because the setup is not code-signed.
+Download **MarkdownShepherd-win-Setup.exe** from the [latest GitHub Release](https://github.com/netizenk/MarkdownShepherd/releases/latest). The current release is **26.11.2**, with richer light and dark syntax highlighting and an optional setting for larger headings in the editor. The setup is per-user and self-contained, so a separate .NET install is not required. Windows SmartScreen may warn on the first run because the setup is not code-signed.
 
 If an older copy was installed with the previous setup and `%LocalAppData%\MarkdownShepherd\MarkdownShepherd.exe` is present without a `current` folder and `Update.exe`, uninstall that copy from Windows Installed apps before installing this one.
 
