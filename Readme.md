@@ -6,16 +6,23 @@ A WPF Windows application for managing, viewing, and editing Markdown files.
 
 ## Installation
 
-### Prerequisites
-- .NET 10.0
+Download **MarkdownShepherd-win-Setup.exe** from the [latest GitHub Release](https://github.com/netizenk/MarkdownShepherd/releases/latest). The current release is **26.11.1**. The setup is per-user and self-contained, so a separate .NET install is not required. Windows SmartScreen may warn on the first run because the setup is not code-signed.
 
-### First-time Installation
-1. Download the latest release from the `Releases` directory
-2. Run the `MarkdownShepherdSetup.exe` file
-3. Follow the installation wizard
+If an older copy was installed with the previous setup and `%LocalAppData%\MarkdownShepherd\MarkdownShepherd.exe` is present without a `current` folder and `Update.exe`, uninstall that copy from Windows Installed apps before installing this one.
 
-### Updates
-The application will automatically check for updates and prompt you to install them when available.
+Older versions (pre-26.11.1 setup files) remain in the [`Releases`](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases) folder.
+
+## Updates
+
+When "Check for updates automatically" is on (the default), an installed copy checks GitHub Releases in the background after startup. If a newer version is downloaded, a bar at the top of the window offers **Restart** and shows the release notes. **Later** keeps working; the update installs the next time the app starts. You can also use **Settings → Check for updates now** or the Help icon's **Check for updates…** menu.
+
+## Uninstall
+
+Uninstall Markdown Shepherd from Windows Installed apps. That removes the app and the per-user Open with registration.
+
+## .md files
+
+Install and update register Markdown Shepherd under **Open with** for `.md` files. They do not make it the default. The first-run prompt and **Settings → Make MarkdownShepherd the default for .md files** open Windows Settings so you can choose the default yourself.
 
 ## Features
 - View and edit Markdown files
@@ -26,10 +33,7 @@ The application will automatically check for updates and prompt you to install t
 - Print support
 
 ## Configuration
-The application stores its configuration in `appsettings.json` in the application directory. You can modify:
-- File history
-- User settings
-- Theme preferences
+User settings, file history, logs, and recovery live under `%AppData%\MarkdownShepherd` and `%LocalAppData%\MarkdownShepherd`, outside the installed `current` folder, so an update does not wipe them.
 
 ## Screenshots
 
