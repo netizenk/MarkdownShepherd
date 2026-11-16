@@ -10,8 +10,6 @@ Download **MarkdownShepherd-win-Setup.exe** from the [latest GitHub Release](htt
 
 If an older copy was installed with the previous setup and `%LocalAppData%\MarkdownShepherd\MarkdownShepherd.exe` is present without a `current` folder and `Update.exe`, uninstall that copy from Windows Installed apps before installing this one.
 
-Older versions (pre-26.11.1 setup files) remain in the [`Releases`](https://github.com/netizenk/MarkdownShepherd/tree/main/Releases) folder.
-
 ## Updates
 
 When "Check for updates automatically" is on (the default), an installed copy checks GitHub Releases in the background after startup. If a newer version is downloaded, a bar at the top of the window offers **Restart** and shows the release notes. **Later** keeps working; the update installs the next time the app starts. You can also use **Settings → Check for updates now** or the Help icon's **Check for updates…** menu.
